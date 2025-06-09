@@ -5,7 +5,7 @@
 Sistema de Gerenciamento de drone
 
 > ⚠️ **Atenção:** Este aplicativo **necessita do backend rodando** para funcionar corretamente. O backend está disponível no repositório:  
-👉 [Link do Backend]((https://github.com/jumarianobf/gs_mobile_back))
+👉 Link backend -> https://github.com/jumarianobf/gs_mobile_back
 
 
 ## 👥 Integrantes do Grupo
